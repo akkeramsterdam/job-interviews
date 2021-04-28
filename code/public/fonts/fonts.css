@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Etelka';
+  font-weight: 700;
+  font-style: normal;
+  src: url('Etelka/etelkatextprobold.woff2');
+}
+ 
+@font-face {
+  font-family: 'Etelka';
+  font-weight: 400;
+  font-style: normal;
+  src: url('Etelka/etelkaLight.woff2');
+}
+ 
+@font-face {
+  font-family: 'Etelka';
+  font-weight: 500;
+  font-style: normal;
+  src: url('Etelka/etelkaMedium.woff2');
+}
